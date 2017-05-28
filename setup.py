@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name = 'greet',
+    name = 'libgreet',
     version = '0.1.0',
-    description = 'Say hello to someone',
-    url = 'https://github.com/buildbot-cookbook/greet',
+    description = 'dummy library used in recipes',
+    url = 'https://github.com/buildbot-cookbook/libgreet',
     packages = ['greet',],
     license = 'GPL V3',
     author = 'David Froger',
